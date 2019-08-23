@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ethereal 
+namespace Aurora 
 {
     /// <summary>
     /// Metadata that is associated with saveable game specific data.

@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using UnityEngine;
 
-namespace Ethereal 
+namespace Aurora 
 {
     public enum SavedGamesSortMode
     {

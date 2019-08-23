@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Ethereal 
+namespace Aurora
 {
     ///////// <summary>
     /// This is a helper class that is used to invoke actions in Unity's main 
