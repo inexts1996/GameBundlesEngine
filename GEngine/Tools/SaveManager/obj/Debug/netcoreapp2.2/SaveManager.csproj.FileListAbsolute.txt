@@ -1,0 +1,15 @@
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\bin\Debug\netcoreapp2.2\SaveManager.deps.json
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\bin\Debug\netcoreapp2.2\SaveManager.dll
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\bin\Debug\netcoreapp2.2\SaveManager.pdb
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\bin\Debug\netcoreapp2.2\UnityEngine.dll
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\bin\Debug\netcoreapp2.2\UnityEngine.xml
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.csprojAssemblyReference.cache
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.csproj.CoreCompileInputs.cache
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.AssemblyInfoInputs.cache
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.AssemblyInfo.cs
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.csproj.CopyComplete
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.dll
+F:\GitHub\GameBundlesEngine\GEngine\Tools\SaveManager\obj\Debug\netcoreapp2.2\SaveManager.pdb
+F:\GitHub\GameBundlesEngine\GEngine\bin\Debug\netcoreapp2.2\SaveManager.deps.json
+F:\GitHub\GameBundlesEngine\GEngine\bin\Debug\netcoreapp2.2\SaveManager.dll
+F:\GitHub\GameBundlesEngine\GEngine\bin\Debug\netcoreapp2.2\SaveManager.pdb

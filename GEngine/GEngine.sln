@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Depend", "Depend", "{085FF48E-28B7-421B-86DD-6E1034730486}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{C8978778-6553-4B77-9FEB-E981881D7B2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{B0513889-81E2-494A-9E4A-4DF608DE5973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveManager", "Tools\SaveManager\SaveManager.csproj", "{0E40EA77-6246-4B82-9D10-C73EDA4922C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E40EA77-6246-4B82-9D10-C73EDA4922C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E40EA77-6246-4B82-9D10-C73EDA4922C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E40EA77-6246-4B82-9D10-C73EDA4922C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E40EA77-6246-4B82-9D10-C73EDA4922C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E40EA77-6246-4B82-9D10-C73EDA4922C1} = {B0513889-81E2-494A-9E4A-4DF608DE5973}
+	EndGlobalSection
+EndGlobal

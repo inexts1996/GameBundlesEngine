@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GEngine.738559102.00" t="ExcludeRecursive" />
+    <e p="F:\GitHub\GameBundlesEngine\GEngine" t="IncludeFlat">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Depend" t="Include" />
+      <e p="GEngine.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tools" t="Include">
+        <e p="SaveManager" t="IncludeRecursive">
+          <e p="AsyncActionHelper.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.2" t="Include">
+                <e p="SaveManager.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="SavedGame.cs" t="Include" />
+          <e p="SavedGameMetadata.cs" t="Include" />
+          <e p="SaveManager.cs" t="Include" />
+          <e p="SaveManager.csproj" t="IncludeRecursive" />
+          <e p="Serialization.cs" t="Include" />
+        </e>
+      </e>
+      <e p="UI" t="Include" />
+    </e>
+  </component>
+</project>
